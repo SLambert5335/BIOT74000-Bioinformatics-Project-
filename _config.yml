@@ -3,6 +3,9 @@ theme: jekyll-theme-modernist
 ---
 layout: single
 title: "Skye Lambert - Bioinformatics Portfolio"
+url: "https://github.com/Sky3Lamb3rt"
+baseurl: "/biot74000-portfolio"
+repository: "/Sky3Lamb3rt/biot74000-portfolio"
 toc: true
 toc_label: "Navigation"
 toc_icon: "cog"
