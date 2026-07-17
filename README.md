@@ -3,6 +3,9 @@
 ## Professional Summary
 ## Skills
  * Instrumental Analysis
- * **Spectral Analysis
+ * **Spectral Analysis**
+
+---
+
 ## Education
 ## Work Experience
